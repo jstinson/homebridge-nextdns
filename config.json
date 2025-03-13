@@ -1,0 +1,7 @@
+{
+  "accessory": "NextDNSYouTubeBlock",
+  "name": "YouTube Block",
+  "profileID": "your-nextdns-profile-id",
+  "apiKey": "your-nextdns-api-key",
+  "domains": ["youtube.com", "googlevideo.com"]
+}
