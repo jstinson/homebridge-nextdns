@@ -1,7 +1,4 @@
-# homebridge-nextdns
-Homebridge NextDNS Blocker
-
-# Homebridge NextDNS YouTube Block
+# Homebridge NextDNS Domain Blocker
 
 This plugin integrates NextDNS with Homebridge to easily block or unblock specific domains, like YouTube, using the denylist feature of NextDNS.
 
